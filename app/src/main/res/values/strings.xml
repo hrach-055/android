@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="title_activity_first">First</string>
+    <string-array name="name">
+        <item>Hrach</item>
+        <item>Anna</item>
+        <item>Vardan</item>
+        <item>Gagik</item>
+        <item>Arsen</item>
+    </string-array>
+    >
+
+</resources>
